@@ -174,8 +174,7 @@ int main()
     return 0;
 }
 🧑‍💻 Example Output
-bash
-Copy code
+
 Forward: 5 10 20 30 
 Backward: 30 20 10 5 
 Size: 4
